@@ -21,8 +21,7 @@
 title: Billy's Blog
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This is my shiny new blog. I'm not sure what I'm going to do with it yet,
-  but here it is!
+  © Billy McMonagle 2020. All rights reserved.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://speedyturkey.dev" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: speedyturkey
