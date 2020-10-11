@@ -4,4 +4,4 @@
 
 layout: home
 ---
-This site is currently under construction. Check back soon!
+Welcome to my humble site - enjoy your stay!
